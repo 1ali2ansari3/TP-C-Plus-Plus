@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1648034419 source:c:\users\hp\desktop\c++\ex1 s3\point.cpp
+	"point.h"
+
+1648035188 c:\users\hp\desktop\c++\ex1 s3\point.h
+	<iostream>
+
+1648157733 source:c:\users\hp\desktop\c++\ex1 s3\main.cpp
+	"cylindre.h"
+
+1648035446 c:\users\hp\desktop\c++\ex1 s3\cercle.h
+	"point.h"
+
+1648035446 source:c:\users\hp\desktop\c++\ex1 s3\cercle.cpp
+	"cercle.h"
+	<cmath>
+
+1648157685 c:\users\hp\desktop\c++\ex1 s3\cylindre.h
+	"cercle.h"
+
+1648157697 source:c:\users\hp\desktop\c++\ex1 s3\cylindre.cpp
+	"cylindre.h"
+

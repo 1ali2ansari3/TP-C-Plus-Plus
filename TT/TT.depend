@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655413071 source:c:\users\hp\desktop\projet ro\tt\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+

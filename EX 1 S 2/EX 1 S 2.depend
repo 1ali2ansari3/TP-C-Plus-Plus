@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652120786 source:c:\users\hp\desktop\c++\ex 1 s 2\main.cpp
+	"pileEntier.h"
+
+1652120762 c:\users\hp\desktop\c++\ex 1 s 2\pileentier.h
+	<iostream>
+
+1652123078 source:c:\users\hp\desktop\c++\ex 1 s 2\pileentier.cpp
+	"pileEntier.h"
+

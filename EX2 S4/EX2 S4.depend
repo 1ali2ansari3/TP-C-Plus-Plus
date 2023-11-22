@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1649161400 source:c:\users\hp\desktop\c++\ex2 s4\livre.cpp
+	"livre.h"
+
+1649605658 c:\users\hp\desktop\c++\ex2 s4\livre.h
+	<iostream>
+	<string.h>
+
+1649161774 source:c:\users\hp\desktop\c++\ex2 s4\main.cpp
+	"librairie.h"
+
+1649161760 source:c:\users\hp\desktop\c++\ex2 s4\librairie.cpp
+	"librairie.h"
+
+1649159779 c:\users\hp\desktop\c++\ex2 s4\librairie.h
+	<vector>
+	"policier.h"
+	"beauLivre.h"
+
+1648855868 c:\users\hp\desktop\c++\ex2 s4\policier.h
+	"Roman.h"
+
+1648857132 c:\users\hp\desktop\c++\ex2 s4\roman.h
+	"livre.h"
+
+1648823841 c:\users\hp\desktop\c++\ex2 s4\beaulivre.h
+	"livre.h"
+
+1648823841 source:c:\users\hp\desktop\c++\ex2 s4\beaulivre.cpp
+	"beauLivre.h"
+
+1648823967 source:c:\users\hp\desktop\c++\ex2 s4\policier.cpp
+	"policier.h"
+
+1648690131 source:c:\users\hp\desktop\c++\ex2 s4\roman.cpp
+	"Roman.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647944049 source:c:\users\hp\desktop\c++\ex3 s2\main.cpp
+	"chaine.h"
+
+1647943840 c:\users\hp\desktop\c++\ex3 s2\chaine.h
+	<iostream>
+
+1647944497 source:c:\users\hp\desktop\c++\ex3 s2\chaine.cpp
+	"chaine.h"
+	<string.h>
+

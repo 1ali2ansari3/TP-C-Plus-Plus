@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649197821 source:c:\users\hp\desktop\c++\ex s5\main.cpp
+	"Cercle.h"
+
+1649197833 c:\users\hp\desktop\c++\ex s5\cercle.h
+	"Frome.h"
+
+1649197833 c:\users\hp\desktop\c++\ex s5\frome.h
+	<iostream>
+

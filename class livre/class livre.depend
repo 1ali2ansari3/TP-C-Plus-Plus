@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648679692 source:c:\users\hp\desktop\c++\class livre\class livre.cpp
+	"class livre.h"
+
+1648679491 c:\users\hp\desktop\c++\class livre\class livre.h
+	<iostream>
+	<string.h>
+
+1648679780 source:c:\users\hp\desktop\c++\class livre\main.cpp
+	"class livre.h"
+

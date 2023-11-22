@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647118660 source:c:\users\hp\desktop\c++\exercice 7\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1647118660 c:\users\hp\desktop\c++\exercice 7\rectangle.h
+	<iostream>
+
+1647117118 source:c:\users\hp\desktop\c++\exercice 7\rectangle.cpp
+	"rectangle.h"
+	<cmath>
+

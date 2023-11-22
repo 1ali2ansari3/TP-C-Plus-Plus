@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648030136 source:c:\users\hp\desktop\c++\ex4 s2\main.cpp
+	"complexe.h"
+
+1655633618 c:\users\hp\desktop\c++\ex4 s2\complexe.h
+	<iostream>
+
+1655633618 source:c:\users\hp\desktop\c++\ex4 s2\complexe.cpp
+	"complexe.h"
+

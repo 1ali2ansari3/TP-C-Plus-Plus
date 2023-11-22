@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1648192829 source:c:\users\hp\desktop\c++\ex2 s3\main.cpp
+	"Voiture.h"
+
+1648164669 c:\users\hp\desktop\c++\ex2 s3\voiture.h
+	"Vehicule.h"
+
+1648162871 c:\users\hp\desktop\c++\ex2 s3\vehicule.h
+	<iostream>
+	<string.h>
+
+1648162962 source:c:\users\hp\desktop\c++\ex2 s3\vehicule.cpp
+	"Vehicule.h"
+
+1648164847 source:c:\users\hp\desktop\c++\ex2 s3\voiture.cpp
+	"Voiture.h"
+

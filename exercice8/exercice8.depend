@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1647458942 source:c:\users\hp\desktop\c++\exercice8\point.cpp
+	"point.h"
+
+1647341058 c:\users\hp\desktop\c++\exercice8\point.h
+	<iostream>
+
+1647458982 source:c:\users\hp\desktop\c++\exercice8\main.cpp
+	<iostream>
+	"segment.h"
+	"point.h"
+
+1647424983 c:\users\hp\desktop\c++\exercice8\segment.h
+	"point.h"
+	<cmath>
+
+1647458916 source:c:\users\hp\desktop\c++\exercice8\segment.cpp
+	"segment.h"
+

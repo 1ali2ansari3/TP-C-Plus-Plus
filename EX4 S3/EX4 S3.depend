@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1648562857 source:c:\users\hp\desktop\c++\ex4 s3\main.cpp
+	"distributeurMulti.h"
+
+1648553812 c:\users\hp\desktop\c++\ex4 s3\distributeur.h
+	<iostream>
+
+1648561754 source:c:\users\hp\desktop\c++\ex4 s3\distributeur.cpp
+	"distributeur.h"
+
+1648563125 c:\users\hp\desktop\c++\ex4 s3\distributeurmulti.h
+	<iostream>
+	"distributeur.h"
+
+1648562840 source:c:\users\hp\desktop\c++\ex4 s3\distributeurmulti.cpp
+	"distributeurMulti.h"
+

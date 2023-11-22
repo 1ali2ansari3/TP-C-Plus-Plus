@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1648207257 source:c:\users\hp\desktop\c++\ex3 s3\main.cpp
+	"ContactSal.h"
+
+1649612135 c:\users\hp\desktop\c++\ex3 s3\contact.h
+	<iostream>
+	<string.h>
+
+1649612140 source:c:\users\hp\desktop\c++\ex3 s3\contact.cpp
+	"contact.h"
+
+1648205514 c:\users\hp\desktop\c++\ex3 s3\contactsal.h
+	"contact.h"
+
+1648206806 source:c:\users\hp\desktop\c++\ex3 s3\contactsal.cpp
+	"ContactSal.h"
+

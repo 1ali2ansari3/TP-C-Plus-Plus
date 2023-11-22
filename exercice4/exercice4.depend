@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647033175 source:c:\users\hp\desktop\c++\exercice4\main.cpp
+	<iostream>
+	"cyrcle.h"
+
+1646949258 c:\users\hp\desktop\c++\exercice4\cyrcle.h
+	<iostream>
+
+1647033479 source:c:\users\hp\desktop\c++\exercice4\cyrcle.cpp
+	"cyrcle.h"
+	<cmath>
+

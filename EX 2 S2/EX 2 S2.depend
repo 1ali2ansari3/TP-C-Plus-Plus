@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647944973 source:c:\users\hp\desktop\c++\ex 2 s2\liste.cpp
+	"liste.h"
+
+1647944973 c:\users\hp\desktop\c++\ex 2 s2\liste.h
+	<iostream>
+
+1647944973 source:c:\users\hp\desktop\c++\ex 2 s2\main.cpp
+	"liste.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1655415883 source:c:\users\hp\desktop\c++\exp3 s5\main.cpp
+	"Cercle.h"
+	"Triangle.h"
+	"Carre.h"
+	"Dessin.h"
+
+1649723565 c:\users\hp\desktop\c++\exp3 s5\cercle.h
+	"Figure.h"
+
+1649764426 c:\users\hp\desktop\c++\exp3 s5\figure.h
+	<iostream>
+	<cmath>
+
+1649723565 c:\users\hp\desktop\c++\exp3 s5\triangle.h
+	"Figure.h"
+
+1649723565 c:\users\hp\desktop\c++\exp3 s5\carre.h
+	"Figure.h"
+
+1655415918 c:\users\hp\desktop\c++\exp3 s5\dessin.h
+	<vector>
+	"Figure.h"
+

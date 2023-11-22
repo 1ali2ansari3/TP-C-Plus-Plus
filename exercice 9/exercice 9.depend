@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647464016 source:c:\users\hp\desktop\c++\exercice 9\main.cpp
+	<iostream>
+	"point.h"
+
+1647464179 c:\users\hp\desktop\c++\exercice 9\point.h
+	<iostream>
+
+1647464179 source:c:\users\hp\desktop\c++\exercice 9\pointtttt.cpp
+	"point.h"
+
